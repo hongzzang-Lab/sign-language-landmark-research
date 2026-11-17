@@ -7,13 +7,14 @@
 
 <p align="center">
   <a href="docs/research-story.md"><b>Research Story</b></a> &nbsp;·&nbsp;
+  <a href="docs/cics-2026.md"><b>CICS 2026</b></a> &nbsp;·&nbsp;
   <a href="docs/research-stages.md"><b>Methods & Stages</b></a> &nbsp;·&nbsp;
   <a href="docs/publications.md"><b>Publications</b></a>
 </p>
 
 <p align="center">
   <img alt="KCI published" src="https://img.shields.io/badge/KCI-Published-238636?style=flat-square"/>
-  <img alt="CICS feature study" src="https://img.shields.io/badge/CICS-Study%20completed-0969da?style=flat-square"/>
+  <img alt="CICS 2026 official program" src="https://img.shields.io/badge/CICS%2726-Official%20Program-0969da?style=flat-square"/>
   <img alt="IPIU-oriented research" src="https://img.shields.io/badge/IPIU--oriented-In%20progress-8250df?style=flat-square"/>
   <img alt="Future direction" src="https://img.shields.io/badge/Future-Exploratory-6e7781?style=flat-square"/>
 </p>
@@ -35,7 +36,7 @@ This repository documents how one practical sign language recognition project ev
 | Stage | Core research question | Status |
 |:--|:--|:--|
 | **01 · KCI** — Emergency SLR application | Can landmark-based recognition support communication in emergency situations? | **Published** · Jan 2026 |
-| **02 · CICS** — Feature validation | Do richer landmark-derived representations consistently improve accuracy and robustness? | **Study completed** · Publication status not asserted |
+| **02 · CICS** — Feature validation | Do richer landmark-derived representations consistently improve accuracy and robustness? | **CICS'26 official program** · SS07-07 |
 | **03 · IPIU-oriented** — Missing-landmark analysis | How do recovery methods affect coordinate, derived-feature, and recognition errors? | **Research ongoing** · Manuscript in preparation |
 | **04 · Future research** — Adaptive robustness | Can feature use adapt to the reliability of incoming landmark observations? | **Exploratory direction** |
 
@@ -54,11 +55,13 @@ The next direction is to explore reliability-aware adaptation instead of treatin
 | **Evaluation** | Coordinate errors, derived-feature distortions, and sign recognition metrics |
 | **Long-term question** | Input-adaptive processing under practical streaming constraints |
 
-## Publication
+## Publications & Conference Research
 
 **Hong Jeongmin et al. (2026).** *긴급상황 속 수어해석 애플리케이션* (Emergency sign language interpretation application). **Journal of the Institute of Electronics and Information Engineers**, 63(1), 81–88.
 
 [![DOI](https://img.shields.io/badge/DOI-10.5573%2Fieie.2026.63.1.81-0969da?style=flat-square)](https://doi.org/10.5573/ieie.2026.63.1.81)
+
+**Hong Jeongmin & Lee Yae Sop (2026).** *Landmark 기반 수어 인식에서 특징 조합에 따른 성능 및 입력 변형 민감도 비교*. **CICS'26**, Special Session 7, SS07-07. [Official program](https://cics.kiee.or.kr/pages/special_session.vm) · [Study overview](docs/cics-2026.md).
 
 Explore the **[research story](docs/research-story.md)**, **[methods overview](docs/research-stages.md)**, and **[publication status](docs/publications.md)** for the full narrative and confirmed milestones.
 
