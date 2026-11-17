@@ -2,23 +2,19 @@
 
 This page documents the scope of each stage without releasing code, sensitive datasets or unpublished implementation details.
 
-| Stage | Focus | Public status |
-|:--|:--|:--|
-| KCI — Application | Emergency sign language interpretation | Published, 2026 |
-| [CICS'26 — Representation](cics-2026.md) | Feature combinations and robustness to input corruption | Official conference program · SS07-07 |
-| IPIU-oriented — Reliability | Missing-landmark restoration, feature error and recognition | Ongoing |
-| Future — Adaptation | Input reliability-aware feature processing | Exploratory |
+- **KCI · Application — Published (2026):** Emergency sign language interpretation
+- **[CICS'26 · Representation](cics-2026.md) — Official program SS07-07:** Feature combinations and robustness to input corruption
+- **IPIU-oriented · Reliability — Ongoing:** Missing-landmark restoration, feature error and recognition
+- **Future · Adaptation — Exploratory:** Input reliability-aware feature processing
 
 ## Feature representations
 
 The investigated landmark input uses **51 landmarks** (9 upper-body landmarks and 21 landmarks per hand), each with xyz coordinates.
 
-| Dimension | Representation |
-|:--|:--|
-| **153D** | 51 × 3 landmark coordinates |
-| **306D** | 153D positions + 153D temporal differences |
-| **317D** | 306D augmented with selected relative-distance and palm-normal geometry |
-| **347D** | Additional hand/finger-angle geometry |
+- **153D:** 51 × 3 landmark coordinates
+- **306D:** 153D positions + 153D temporal differences
+- **317D:** 306D augmented with selected relative-distance and palm-normal geometry
+- **347D:** Additional hand/finger-angle geometry
 
 These are project-specific representations rather than universal sign-language-recognition standards.
 
@@ -29,4 +25,4 @@ These are project-specific representations rather than universal sign-language-r
 - **Signer-disjoint splits and consistent data protocols** are necessary when discussing generalization.
 - **Streaming robustness must be demonstrated** rather than inferred from offline classification accuracy.
 
-[Back to README](../README.md) · [CICS'26 research](cics-2026.md) · [Research story](research-story.md)
+[Back to README](../README.md) · [CICS'26 research](cics-2026.md) · [Research Flow](research-flow.md)
