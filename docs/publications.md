@@ -18,11 +18,9 @@ The presentation is listed in the official conference schedule. An individual pu
 
 ## Research development
 
-| Stage | Status | Notes |
-|:--|:--|:--|
-| **IPIU-oriented missing-landmark analysis** | Ongoing | Manuscript in preparation; no acceptance claim |
-| **Input-adaptive robustness** | Future research | Exploratory direction only |
+- **IPIU-oriented missing-landmark analysis — Ongoing:** Manuscript in preparation; no acceptance claim
+- **Input-adaptive robustness — Future research:** Exploratory direction only
 
 > Public descriptions are intentionally limited to confirmed work and high-level research goals.
 
-[Back to README](../README.md) · [Research story](research-story.md)
+[Back to README](../README.md) · [Research Flow](research-flow.md)
