@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="docs/research-story.md"><b>Research Story</b></a> &nbsp;·&nbsp;
+  <a href="docs/research-flow.md"><b>Research Story</b></a> &nbsp;·&nbsp;
   <a href="docs/cics-2026.md"><b>CICS 2026</b></a> &nbsp;·&nbsp;
   <a href="docs/research-stages.md"><b>Methods & Stages</b></a> &nbsp;·&nbsp;
   <a href="docs/publications.md"><b>Publications</b></a>
