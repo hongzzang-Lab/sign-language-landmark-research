@@ -1,0 +1,22 @@
+# Public documentation only
+/datasets/
+/data/
+/outputs/
+/runs/
+/checkpoints/
+/experiments/
+*.npy
+*.npz
+*.parquet
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.zip
+*.tar
+*.tar.gz
+*.pem
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
