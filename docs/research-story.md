@@ -14,13 +14,17 @@ A published application used upper-body and hand landmark representations with a
 
 **Next question:** Which engineered landmark features are actually useful for recognition?
 
-## 02 — Feature validation (CICS-related study, 2026)
+## 02 — Feature validation (CICS'26, 2026)
+
+**Conference:** CICS'26, Special Session 7, SS07-07 · [Official program](https://cics.kiee.or.kr/pages/special_session.vm)
 
 **Research question:** Does adding more landmark-derived features consistently improve recognition?
 
 Project-specific 153D, 306D, 317D and 347D inputs were investigated with 1D-CNN, Bi-LSTM and Transformer models. Noise, occlusion and skipped frames were used to study sensitivity to imperfect observations.
 
 **Observed direction:** Increasing feature dimensionality did not consistently improve performance across architectures and corruptions.
+
+[Detailed CICS'26 overview](cics-2026.md)
 
 **Next question:** What happens to derived features when source landmarks are missing?
 
