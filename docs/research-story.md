@@ -1,4 +1,4 @@
-# Research Story
+# Research Flow
 
 > From a practical emergency sign-language system to understanding and improving the reliability of landmark representations.
 
