@@ -8,11 +8,18 @@ Publication status is stated conservatively; study completion does not imply jou
 
 [DOI: 10.5573/ieie.2026.63.1.81](https://doi.org/10.5573/ieie.2026.63.1.81)
 
+## CICS'26 — Conference program
+
+**Hong Jeongmin & Lee Yae Sop (2026).** *Landmark 기반 수어 인식에서 특징 조합에 따른 성능 및 입력 변형 민감도 비교*. **CICS'26: Conference on Information and Control Systems**, Special Session 7 (SS07-07), November 13, 2026.
+
+[Official CICS'26 program](https://cics.kiee.or.kr/pages/special_session.vm) · [Research summary](cics-2026.md)
+
+The presentation is listed in the official conference schedule. An individual publication DOI has not been verified.
+
 ## Research development
 
 | Stage | Status | Notes |
 |:--|:--|:--|
-| **CICS-related feature validation** | Study completed | Add official conference proceedings or presentation link once verified |
 | **IPIU-oriented missing-landmark analysis** | Ongoing | Manuscript in preparation; no acceptance claim |
 | **Input-adaptive robustness** | Future research | Exploratory direction only |
 
