@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="475" viewBox="0 0 1440 475" role="img" aria-labelledby="title desc">
+<title id="title">Research stages and status</title>
+<desc id="desc">KCI: Emergency sign language recognition, published January 2026. CICS: Feature validation, official CICS 2026 program SS07-07. IPIU-oriented: Missing-landmark analysis, ongoing manuscript. Future research: Adaptive robustness, exploratory.</desc>
+<rect x="1" y="1" width="1438" height="473" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="1" y="1" width="1438" height="67" rx="8" fill="#ffffff"/>
+<path d="M1 68H1439 M1 169H1439 M1 270H1439 M1 371H1439 M362 1V474 M1013 1V474" stroke="#d0d7de" stroke-width="2" fill="none"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#24292f">
+ <text x="24" y="44" font-size="23" font-weight="700">Stage</text>
+ <text x="386" y="44" font-size="23" font-weight="700">Core research question</text>
+ <text x="1037" y="44" font-size="23" font-weight="700">Status</text>
+ <text x="24" y="105" font-size="22" font-weight="700">01 · KCI</text>
+ <text x="24" y="141" font-size="20">Emergency SLR application</text>
+ <text x="386" y="106" font-size="20">Can landmark-based recognition support</text>
+ <text x="386" y="139" font-size="20">communication in emergency situations?</text>
+ <text x="1037" y="125" font-size="21" font-weight="700">Published</text>
+ <text x="1161" y="125" font-size="20" fill="#57606a">· Jan 2026</text>
+ <text x="24" y="207" font-size="22" font-weight="700">02 · CICS</text>
+ <text x="24" y="242" font-size="20">Feature validation</text>
+ <text x="386" y="207" font-size="20">Do richer landmark-derived representations</text>
+ <text x="386" y="240" font-size="20">improve accuracy and robustness?</text>
+ <text x="1037" y="207" font-size="21" font-weight="700">CICS'26 program</text>
+ <text x="1037" y="241" font-size="20" fill="#57606a">SS07-07</text>
+ <text x="24" y="309" font-size="22" font-weight="700">03 · IPIU-oriented</text>
+ <text x="24" y="343" font-size="20">Missing-landmark analysis</text>
+ <text x="386" y="308" font-size="20">How do recovery methods affect coordinate,</text>
+ <text x="386" y="341" font-size="20">feature, and recognition errors?</text>
+ <text x="1037" y="308" font-size="21" font-weight="700">Research ongoing</text>
+ <text x="1037" y="342" font-size="20" fill="#57606a">Manuscript in preparation</text>
+ <text x="24" y="409" font-size="22" font-weight="700">04 · Future research</text>
+ <text x="24" y="443" font-size="20">Adaptive robustness</text>
+ <text x="386" y="409" font-size="20">Can feature use adapt to the reliability of</text>
+ <text x="386" y="442" font-size="20">incoming landmark observations?</text>
+ <text x="1037" y="427" font-size="21" font-weight="700">Exploratory direction</text>
+</g>
+</svg>
